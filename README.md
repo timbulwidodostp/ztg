@@ -1,6 +1,8 @@
 # ztg
 Zero-Truncated Geometric regression Use ztg With STATA 19
 
+https://www.youtube.com/watch?v=ADBqhZPBe3g
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
